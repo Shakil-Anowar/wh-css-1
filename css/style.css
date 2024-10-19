@@ -1,0 +1,46 @@
+/* GOOGLE_FONTS */
+
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Sketch&display=swap');
+
+
+
+
+  h1{font-family:"Londrina Sketch";
+    text-align: center;
+    color: blue;
+    
+  }
+  #p1{
+    font-size: 20px;font-style: italic;color: red;
+  }
+#p2{font-size: 20px;font-style: green;color: gray;
+}
+a{
+  text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: red;
+  color: white;
+  width: 50px;
+  display: block;
+  height: 50px;
+  text-align: center;
+  font-size: 7px;
+  line-height: 50px;
+  border-radius: 50%;
+}
+img{
+  width: 100px;
+  height: 100px;
+}
+
+.maruf{
+  color: red;
+  font-size: larger;
+  font-family: "Londrina Sketch";
+}
+.Masud{
+  color: blue;
+}
+.shakil{
+  color: green;
+}
